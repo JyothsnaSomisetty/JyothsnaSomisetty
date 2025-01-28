@@ -2,7 +2,7 @@
 - 👀 I’m interested in Analysing Data
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on reporting and analysing tools
-- 📫 How to reach me jyothsnasomisetty@gmail.com
+- 📫 reach me jyothsnasomisetty@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love to travel but on weekdays, to escape work 
 
