@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @JyothsnaSomisetty
+- 👋 Hi, I’m Jyothsna
 - 👀 I’m interested in Analysing Data
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on reporting and analysing tools
-- 📫 reach me jyothsnasomisetty@gmail.com
+- 📫 reach me at jyothsnasomisetty@gmail.com
 - 😄 Pronouns: She
-- ⚡ Fun fact: I love to travel but on weekdays, to escape work 
+- 
 
 <!---
 JyothsnaSomisetty/JyothsnaSomisetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
